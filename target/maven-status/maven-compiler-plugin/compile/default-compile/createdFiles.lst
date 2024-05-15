@@ -1,0 +1,7 @@
+com\emergentes\modelo\Estudiante.class
+com\emergentes\dao\EstudianteDAO.class
+com\emergentes\utiles\ConexionBD.class
+com\emergentes\segundo_parcial\JakartaRestConfiguration.class
+com\emergentes\segundo_parcial\resources\JakartaEE8Resource.class
+com\emergentes\dao\EstudianteDAOimpl.class
+com\emergentes\controller\Controller.class
